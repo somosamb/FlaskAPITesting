@@ -32,14 +32,14 @@ Full HTTP status codes + headers
 Extensive inline comments for learning
 
 🧱 Step 1: Create a Virtual Environment
-In your project folder (~/DEV/26May25/my-local-api):
+In your project folder (/my-local-api):
 python3 -m venv venv
 This creates a folder called venv/ that will hold Python and pip just for your project.
 ▶️ Step 2: Activate the Virtual Environment
 Run this command:
 source venv/bin/activate
 Your prompt should now change to something like:
-(venv) drei@S340:~/DEV/26May25/my-local-api$
+(venv) drei@S340:/my-local-api$
 ❌ To Exit the Virtual Environment Later:
 Just run:
 deactivate
