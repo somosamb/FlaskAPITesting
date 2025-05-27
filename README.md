@@ -52,7 +52,6 @@ python3 app.py
 You will see output like:
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 This means your local API is now running at http://127.0.0.1:5000
-Control+C to interrupt API server
 
 TEST wit PYTEST
 pip install flask pytest
